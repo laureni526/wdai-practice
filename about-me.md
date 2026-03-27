@@ -28,3 +28,7 @@ My role is to align volunteers, facilitators, and mentors so we're not just teac
 I believe in the ripple effect. My job isn't to be the smartest person in the room. It's to make sure everyone in the room walks away a little more capable, a little more confident, and ready to share what they learned with someone else.
 
 You can't swallow the ocean. So I focus on one thing: building systems that let people learn, grow, and lead — without me becoming the bottleneck.
+
+## Learning to Code
+
+I'm currently learning to code as a student myself. I'm working through git, GitHub, and web development — taking the same patient, step-by-step approach I bring to teaching AI. This hands-on learning helps me understand what my students experience when they're tackling something new and technical for the first time.
