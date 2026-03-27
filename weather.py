@@ -12,9 +12,14 @@ API_KEY = os.getenv('OPENWEATHER_API_KEY')
 # OpenWeatherMap API endpoint
 url = "http://api.openweathermap.org/data/2.5/weather"
 
-# Parameters for Durham, NC
+# Ask user which city they want
+print("🌤️  Weather Checker")
+print("=" * 40)
+city = input("Which city do you want to check? (e.g., Durham,NC,US): ")
+
+# Parameters for the requested city
 params = {
-    'q': 'Durham,NC,US',
+    'q': city,
     'appid': API_KEY,
     'units': 'imperial'  # Use Fahrenheit
 }
@@ -32,7 +37,7 @@ if response.status_code == 200:
     humidity = data['main']['humidity']
 
     # Display the weather
-    print(f"\n🌤️  Current Weather in Durham, NC")
+    print(f"\n🌤️  Current Weather in {city}")
     print(f"=" * 40)
     print(f"Temperature: {temp}°F")
     print(f"Feels like: {feels_like}°F")
