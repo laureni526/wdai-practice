@@ -18,7 +18,7 @@ I also support the incredible volunteers in our Programming pillar. They lead:
 ## What I'm Building
 
 Right now, I'm focused on unifying the experience across WDAI. That means:
-- Building a new **Mentor/Volunteer Support Program** to help our community leaders thrive
+- Building a new **Mentor/Volunteer Support Program** to help our community leaders thrive. This program will give volunteers and mentors the context they need — understanding WDAI's history, mission, and values — along with practical best practices for leading effective sessions. Whether they're facilitating live or virtual sessions, working with small groups, large groups, or 1:1, our goal is to ensure every volunteer feels supported, connected to our community, and equipped to represent our mission well.
 - Creating an **AI Certified Facilitator Program** to ensure everyone teaching under the WDAI name has the tools and support they need
 
 My role is to align volunteers, facilitators, and mentors so we're not just teaching AI — we're teaching *with* each other.
